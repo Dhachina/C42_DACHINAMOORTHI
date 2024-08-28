@@ -1,6 +1,9 @@
 package com.tnsif.Day5.HierarchicalInheritance;
 
 public class Person {
+	public static void main(String[]args) {
+		Person obj= new Person();
+	}
 	private String name;
 	private String city;
 
